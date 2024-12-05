@@ -1,0 +1,1 @@
+This project predicts whether a loan application will be approved or denied based on various factors like applicant income, credit history, education, and property area. It uses a Support Vector Machine (SVM) model trained on a labeled dataset to classify new loan requests.
